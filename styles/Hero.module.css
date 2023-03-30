@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  position: relative;
+}
+.left {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+.cherryDIv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+}
