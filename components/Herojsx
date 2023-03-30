@@ -9,7 +9,7 @@
 <div className={css.cherry}>
 
 <span>More than Faster</span>
-<Image src = {Cherry} alt="" width={40} height={25}
+<Image src = {Cherry} alt="" width={40} height={25}/>
 </div>
 {/*right side}
 
